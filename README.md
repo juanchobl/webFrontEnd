@@ -1,3 +1,4 @@
 # webFrontEnd
 
-1. No, primero debo encender el pc
+1. Iniciar GitHub
+
